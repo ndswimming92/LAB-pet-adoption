@@ -8,7 +8,7 @@ As a user, I want to see a listing of all available pets. Each pet should have a
 - specialSkill
 - typeOfPet
 
-Navigate to [dbDiagram.io](https://dbDiagram.io) and create an entity for these properties.
+Navigate to [dbDiagram.io](ht        tps://dbDiagram.io) and create an entity for these properties.
 
 Once you have completed your entity, [compare with this one](https://dbdiagram.io/d/631ff2e40911f91ba594dc5a).
 
